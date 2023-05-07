@@ -1,0 +1,12 @@
+E:\ASP. NET\Test Code\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+E:\ASP. NET\Test Code\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+E:\ASP. NET\Test Code\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\refint\Infrastructure.dll
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
+E:\ASP. NET\Test Code\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
